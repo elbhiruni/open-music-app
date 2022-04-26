@@ -1,4 +1,3 @@
-/* eslint-disable no-underscore-dangle */
 class PlaylistsHandler {
   constructor(playlistsService, songsService, validator) {
     this._playlistsService = playlistsService;
